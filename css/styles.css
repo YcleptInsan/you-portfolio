@@ -20,23 +20,32 @@ a {
   background: #e3e3e3;
   float: left;
   width: 250px;
-
-
+  border: 5px solid black;
 }
-
+#Sidebar-cn p{
+  padding-left: 5px;
+  /*background-color: white;*/
+  margin: auto;
+}
+#subhead-size{
+  text-align: center;
+  margin-top: 2px;
+  font-size: 10px;
+  font-weight: bold;
+}
 #header{
+  background: url(../img/header.jpg);
+  border: 2px solid black;
+  text-align: center;
 
-  background-color: green;
 }
 #header p{
   font-size: 15px;
   margin-left: 20px;
-  margin-bottom: inherit  ;
-
+  margin-bottom: inherit;
 }
 #header h1 {
   margin-left: 10px;
-  margin-top: 10px;
   padding-top: 10px;
 }
 #footer {
@@ -46,4 +55,13 @@ a {
 }
  #bg-img {
 
+}
+p {
+  text-indent: 5px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
 }
