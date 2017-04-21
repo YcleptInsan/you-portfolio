@@ -59,7 +59,7 @@ span a {
   margin-left: 20px;
   margin-bottom: inherit;
 }
-#header h1 {
+#header h1{
   margin-left: 10px;
   padding-top: 10px;
 }
@@ -91,14 +91,15 @@ span {
 .images img{
   margin-left: 50px;
   margin-top: 25px;
-
-
 }
 img {
-
   width: 200px;
   height: 190px;
   border: 2px solid black;
   margin-left: 70px;
   margin-top: 10px;
+}
+
+@media screen and (max-width: 768px) {
+
 }
