@@ -1,0 +1,49 @@
+body {
+  background: url(../img/background.jpg) ;
+}
+.container {
+  margin: auto;
+  margin-top: 111px;
+  width: 600px;
+  background: white;
+  /*border: 2px solid black;*/
+}
+a {
+  color: white;
+}
+#content {
+  background-color: rgba(0, 0, 0, 0.5);
+
+
+}
+#Sidebar-cn {
+  background: #e3e3e3;
+  float: left;
+  width: 250px;
+
+
+}
+
+#header{
+
+  background-color: green;
+}
+#header p{
+  font-size: 15px;
+  margin-left: 20px;
+  margin-bottom: inherit  ;
+
+}
+#header h1 {
+  margin-left: 10px;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+#footer {
+  background: black;
+  color: white;
+  clear: both;
+}
+ #bg-img {
+
+}
