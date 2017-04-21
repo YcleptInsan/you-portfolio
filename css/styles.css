@@ -13,8 +13,11 @@ a {
 }
 #content {
   background-color: rgba(0, 0, 0, 0.5);
-
-
+}#content h2 {
+  text-align: center;
+}
+#content li{
+  margin-left: 57%;;
 }
 #Sidebar-cn {
   background: #e3e3e3;
@@ -22,7 +25,7 @@ a {
   width: 250px;
   border: 5px solid black;
 }
-#Sidebar-cn p{
+#Sidebar-cn2 p{
   padding-left: 5px;
   /*background-color: white;*/
   margin: auto;
@@ -64,4 +67,5 @@ img {
   width: 200px;
   height: 200px;
   border: 2px solid black;
+  margin-left: 70px;
 }
