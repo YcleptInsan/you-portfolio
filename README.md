@@ -18,7 +18,7 @@
 
 ## Known Bugs
 
-audio source doesn't work properly 
+audio source doesn't work properly
 
 ## Support and contact details
 
@@ -27,6 +27,7 @@ contact me at nickmwise@gmail.com for support.
 ## Technologies Used
 
 HTML, CSS, and Bootstrap
+link to gh-pages: 
 
 ### License
 
