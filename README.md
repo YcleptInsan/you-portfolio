@@ -27,10 +27,18 @@ contact me at nickmwise@gmail.com for support.
 ## Technologies Used
 
 HTML, CSS, and Bootstrap
+<<<<<<< HEAD
 link to gh-pages:
+=======
+link to gh-pages: 
+>>>>>>> 39c26b73e62c20ac2eb6397190b6d2dbad8d2bcd
 
 ### License
 
 This project is licensed under the MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2017
+=======
+Copyright (c) 2016
+>>>>>>> 39c26b73e62c20ac2eb6397190b6d2dbad8d2bcd
