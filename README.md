@@ -33,4 +33,4 @@ link to gh-pages:
 
 This project is licensed under the MIT License
 
-Copyright (c) 2016
+Copyright (c) 2017
