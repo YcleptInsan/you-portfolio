@@ -13,8 +13,7 @@
 
 ## Setup/Installation Requirements
 
- open website in browser and enjoy.
- this particular website was set up to be only viewed on a desktop.
+ Downlaod clone from my Github account https://github.com/YcleptInsan to your Desktop. open all files in your favorite text editor to edit the code. you can view the page via https://ycleptinsan.github.io/you-portfolio/.
 
 ## Known Bugs
 
